@@ -1,0 +1,10 @@
+node_modules/
+builds/
+workspaces/
+temp/
+projects/
+*.log
+*.keystore
+public_url.txt
+*.old
+*.backup
